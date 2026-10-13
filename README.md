@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kashish, Data Engineer Intern at Zscaler.
--  Doing my B.E. in Computer Science from Thapar University, Patiala.
+- 👋 Hi, I’m Kashish, Associate Data Engineer at Zscaler.
+-  Have done my B.E. in Computer Science from Thapar University, Patiala.
 - 👀 I’m interested in Reading, Dancing and Working :)
 - 🌱 I’m currently learning and working on data engineering, AI, ML, DL.
 - 📫 How to reach me: @kashishsingla34@gmail.com or my kaggle account: https://www.kaggle.com/kashish50.
